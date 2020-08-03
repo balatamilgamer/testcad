@@ -1,0 +1,8 @@
+.card {
+  height: 300px;
+  background: pink;
+}
+
+.card .head {
+  border-bottom: 1px solid #dedede;
+}
